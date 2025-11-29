@@ -1,0 +1,1 @@
+HBnB Evolution is a simplified version of an AirBnB-like application that allows users to manage properties, reviews, and amenities. This documentation provides a comprehensive blueprint of the application’s architecture, business logic, and interactions between components. It is intended to guide the implementation phase and ensure clarity in the system’s design.
